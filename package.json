@@ -1,7 +1,7 @@
 {
     "name": "range",
     "version": "0.1.0",
-    "description": "Polyfill for globalThis.range method.",
+    "description": "Utility function to generate an array containing a number of items from integers (default) to anything, given a mapping function.",
     "main": "range.js",
     "scripts": {
         "test": "node tests/test.js"

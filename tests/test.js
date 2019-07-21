@@ -71,6 +71,15 @@ assertThrows(function() {
     assertEquals(result[4], -4);
 }
 
+{
+    const result = range(5, x => ({ val: x }));
+    assertEquals(result.length, 5);
+    assertEquals(typeof result[0], 'object');
+    assertEquals(result[0].val, 0);
+    assertEquals(result[4].val, 4);
+    console.table(result);
+}
+
 console.log(`
 Test Complete
 `);

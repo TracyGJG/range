@@ -12,9 +12,9 @@ Occasionally when developing code using a functional style or when preparing tes
 
 ### Bug and Suggestion reports
 
-Please report bugs and improvement suggestions via the [GitHub repo](https://github.com/TracyGJG/Array.range/issues).
+Please report bugs and improvement suggestions via the [GitHub repo](https://github.com/TracyGJG/range/issues).
 
-## globalThis.range parameters
+## range parameters
 
 The range function takes between 1 and 2 parameters.
 

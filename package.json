@@ -1,0 +1,25 @@
+{
+    "name": "range",
+    "version": "0.1.0",
+    "description": "Polyfill for globalThis.range method.",
+    "main": "range.js",
+    "scripts": {
+        "test": "node tests/test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/TracyGJG/range.git"
+    },
+    "keywords": [
+        "Polyfill",
+        "ecmascript",
+        "globalThis",
+        "ECMA-262"
+    ],
+    "author": "Tracy-Gregory J Gilmore",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/TracyGJG/range/issues"
+    },
+    "homepage": "https://github.com/TracyGJG/range#readme"
+}

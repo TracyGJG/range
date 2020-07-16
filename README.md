@@ -1,4 +1,4 @@
-# range utility (polyfil)
+# range utility (polyfill)
 
 Definition of a range function, developed as a ES3-compatible polyfill.
 
